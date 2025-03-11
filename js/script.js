@@ -17,4 +17,4 @@ setTimeout(() => {
     console.log('task 2 (delayed)')
 }, 2000);
 
-console.log('lima')
+console.log('lima');
